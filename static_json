@@ -2,6 +2,7 @@
 "headers": {
   "*/": {
   "X-Author": "sasha.dedkov"
+  "Access-Control-Allow-Origin": "*"
   }
  }
 }
